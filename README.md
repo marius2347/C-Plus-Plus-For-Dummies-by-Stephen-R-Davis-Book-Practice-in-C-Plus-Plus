@@ -2,6 +2,10 @@
 
 **Practical C++ exercises inspired by the book “C++ For Dummies” by Stephen R. Davis**
 
+
+![Book Cover](book.jpg)
+
+
 ---
 
 ## 🧠 Overview
